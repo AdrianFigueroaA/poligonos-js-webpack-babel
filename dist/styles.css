@@ -1,0 +1,28 @@
+body{
+
+
+    background: green;
+}
+
+h1{
+
+text-align: center;
+
+}
+
+#seleccion{
+
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.label{
+
+
+    display: flex;
+    justify-content: space-between;
+
+
+}
